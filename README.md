@@ -13,21 +13,21 @@ Este proyecto es una aplicación de juegos en C++ que permite al usuario elegir 
 
 ## Instalación
 1. Clona el repositorio:
-2. ```bash
+ ```bash
    git clone https://github.com/jcestefania/game-app-cpp.git
-
-3. Navega al directorio del proyecto:
-4. ```bash
+ ```
+2. Navega al directorio del proyecto:
+ ```bash
    cd game-app-cpp
-
-5. Compila el archivo fuente:
-6. ```bash
+ ```
+3. Compila el archivo fuente:
+ ```bash
    g++ proyecto_app_2.cpp -o game-app
-
-7. Ejecuta la aplicación:
-8. ```bash
+ ```
+4. Ejecuta la aplicación:
+ ```bash
    ./game-app
-
+ ```
 ## Uso
 Al ejecutar la aplicación, verás un menú con tres opciones de juego. Selecciona un juego ingresando el número correspondiente:
 - 1: Piedra, Papel o Tijeras
